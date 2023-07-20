@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_blog"]=self["webpackChunkmy_blog"]||[]).push([[785],{785:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});var l=function(){var n=this,u=n._self._c;return u("div",[n._v("prjs")])},r=[],t={},s=t,f=e(1001),a=(0,f.Z)(s,l,r,!1,null,"53fa6a94",null),c=a.exports}}]);
+//# sourceMappingURL=785.6454ea5b.js.map
